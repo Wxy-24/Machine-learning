@@ -1,7 +1,5 @@
 # Machine-learning-TP
-machine learning TP in m2
-
-(all files with python notebook format)
+machine learning TP in m2(all files with python notebook format)
 
 machine learning part implemented with scikit-learn
 
